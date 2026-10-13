@@ -446,11 +446,6 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
-file = "mods/platform.pw.toml"
-hash = "5c12c1c9a549312c73fc4c0fbc007187c4b631f94562666f4ae8c66a48dc54f1"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
 metafile = true
@@ -558,11 +553,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "fe3721a4765cb7a664dd1725698647c4577cb1be9dca824ce9faa6f2f4598ac2"
 metafile = true
 
 [[files]]
