@@ -1,0 +1,8 @@
+name = "VanillaBackport"
+filename = "VanillaBackport-fabric-1.21.1-1.2.0.2640.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1397374558461362429/1558651448722718861/VanillaBackport-fabric-1.21.1-1.2.0.2640.1.jar?ex=6acc36c7&is=6acae547&hm=a181551ef15bc02ab5fa9ab77be36a460c50da8f73bf6d5e333143f946ab07fe&"
+hash-format = "sha512"
+hash = "0e4115c89a21b7876aacc4de3ac745384a6923aea583a9da6188d9494b8234f6735b80e2f6f4b0694703bdfaf741da8eb39f104092eabd0b0898f4cbf2c99ac0"

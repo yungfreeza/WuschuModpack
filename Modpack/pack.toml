@@ -1,0 +1,13 @@
+name = "Wuschu"
+author = "freeza"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7c0f9c486e5d5ba734a43417c252c5eb4d553db3a38ec04c5b2ff274aa86451d"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.1"

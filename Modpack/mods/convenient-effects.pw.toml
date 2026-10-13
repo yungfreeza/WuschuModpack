@@ -1,0 +1,13 @@
+name = "Convenient Effects"
+filename = "ConvenientEffects-v21.1.4-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BEVhblTh/versions/K61EOYd0/ConvenientEffects-v21.1.4-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "d077a6cf3b2b577444781c0efcde5138599c538686cef13c60469ea6f6edd8485cee128ac127ddb4d5a786187d300f23da166cc12da8fb99fa1b945a1650d9bf"
+
+[update]
+[update.modrinth]
+mod-id = "BEVhblTh"
+version = "K61EOYd0"

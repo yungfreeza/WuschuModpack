@@ -1,0 +1,13 @@
+name = "Fowl Play"
+filename = "fowlplay-1.2.3+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WpXfePbg/versions/Ts6hKxB0/fowlplay-1.2.3%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "81a3373529e45159fdd177f233d92a171b50e56fcba63b540801f7dc32c7d87a5e5a8bff46d3c34d7f3c3580f892ea93c32604be796b7d0bf30011c4cca21777"
+
+[update]
+[update.modrinth]
+mod-id = "WpXfePbg"
+version = "Ts6hKxB0"

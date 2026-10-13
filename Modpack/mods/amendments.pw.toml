@@ -1,0 +1,13 @@
+name = "Amendments"
+filename = "amendments-1.21-2.1.11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/cFt8Z1aS/amendments-1.21-2.1.11-fabric.jar"
+hash-format = "sha512"
+hash = "3f321b816db5cc69469dae996c63a99a1ceeeee1dfe463febed9a8515e703b5e726ed1e8e433df50937d819f4506e1ab3cf2d968f18e2ec26caea32d2f0a23aa"
+
+[update]
+[update.modrinth]
+mod-id = "6iTJugQR"
+version = "cFt8Z1aS"

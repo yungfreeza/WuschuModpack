@@ -1,0 +1,13 @@
+name = "All The Wood We've Got"
+filename = "All-The-Wood-Weve-Got-Fabric-2.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qvq8iHWh/versions/UFqqAIqb/All-The-Wood-Weve-Got-Fabric-2.2.4.jar"
+hash-format = "sha512"
+hash = "8a00b7c288e8db139d9824cb8b4c2c76eb7a5f59f58fdb0ccc5ee3bce4dc2cbfb6cbe33fadc2f483c8532d61bb7f4af7fb6eb4aa89ae8bdca88a41e41b9b1d88"
+
+[update]
+[update.modrinth]
+mod-id = "qvq8iHWh"
+version = "UFqqAIqb"
