@@ -1,0 +1,2 @@
+# Prevent line-ending conversion from changing Packwiz hashes
+* -text
