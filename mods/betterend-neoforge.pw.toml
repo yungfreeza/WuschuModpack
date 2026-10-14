@@ -1,13 +1,13 @@
 name = "BetterEnd: New Dawn"
-filename = "better-end-21.0.21-fabric.jar"
+filename = "better-end-21.0.22-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IcERKldh/versions/cSKblIqM/better-end-21.0.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/IcERKldh/versions/DT64kGEW/better-end-21.0.22-fabric.jar"
 hash-format = "sha512"
-hash = "6eb2b9f8d84cfcb4d978372c094a6fac2a60cdfcf123dfb3f7e53156a934ea2acaf54c5d8e931eb1af5344a32f12aa61f0e11d473a20d44887123bb2783ac71f"
+hash = "4ec6ee1564d34cc3da5a3bb7f07aee526d71c9919ad40ecddec7e6f7f92cefaeebb791b571f1a4c615d230d63ba4d304f894deb71eba02fa4e4a48f3820aafe6"
 
 [update]
 [update.modrinth]
 mod-id = "IcERKldh"
-version = "cSKblIqM"
+version = "DT64kGEW"
