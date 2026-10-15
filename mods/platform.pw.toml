@@ -1,8 +1,8 @@
 name = "Platform"
-filename = "Platform-fabric-1.21.1-1.4.0.2640.1.jar"
+filename = "Platform-fabric-1.21.1-1.4.0.2640.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1397374558461362429/1558651449007804526/Platform-fabric-1.21.1-1.4.0.2640.1.jar?ex=6acc36c7&is=6acae547&hm=263a5ba58351cc77fed3962231207429cbed5eed88830632bcd18294cb513b35&"
+url = "https://yungfreeza.github.io/WuschuModpack/Platform-fabric-1.21.1-1.4.0.2640.3.jar"
 hash-format = "sha512"
-hash = "73942f27460ac6908b21d5a005204876421f62d0d4d1e0f65f3503d61e28e4ce3c360298e2157675f530a272db8057709ff7f63b25e0996419a6baa3c58d5b2a"
+hash = "8a39087b534cd020c55619df2ae1fb5ae7b547ead74721cfbc462d57d9bad6ddb236117f0ff9ebd53747eb4f3cd866ae109918c652b0cea859c96cd760e77236"

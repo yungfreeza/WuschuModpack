@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Platform-fabric-1.21.1-1.4.0.2640.3.jar"
+hash = "819d90407dc04c53be4f44bf8c9a1ea3729f327b44e2e57b641ac00dbb2304b1"
+
+[[files]]
+file = "VanillaBackport-fabric-1.21.1-1.2.0.2640.2.jar"
+hash = "7d1c4167d21962ad255bcf73a00cef59144f7dcbeaf51c61309feae425cbe775"
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "8bd2400ff4d2cc3d13b97737c55de3570514702c79f0bda095a5e4d0024c3c98"
 metafile = true
@@ -312,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "f03102fa8d59771e31543e75cefe41c2c00fb196e3e25a97b45f50ed62d81410"
+hash = "b62eafb270cacd84d4f8e86351adf76bb223bf11d48d3117f39b554695d15788"
 metafile = true
 
 [[files]]
@@ -446,6 +454,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "235adddd4ca3c6b448a729b7630676c327a0e9f5c853f19d8086a5e178042a37"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
 metafile = true
@@ -553,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "bb0a8f266be0a7d543fa072230566e273169c3ff0c2027cc722fae806a0ddbb5"
 metafile = true
 
 [[files]]
