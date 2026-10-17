@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "d8d0a4befea26706a1985e41acb7e9dad1585840f579e25aee365cd2a00e291d"
+hash = "491d600a963abdb302f72ed3d536a6e0d7c69e3593002f754087edc91fb56410"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "136af191b860ebf7967a748fe20457b8b1712e9d6095413dce23def1ed28468b"
+hash = "0068600d3a81ec5e80dd2b7d700bdb7b957f953ee340c6526ba7da741661a40b"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d90a3a8ec48ee45845a2bd5727b9ea59ee87fbab244f2aca7ad08cf126f9ea10"
+hash = "5f3bca4743cc13247331ab1bbcabbad25416a252b57da27999425afc474d1c43"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8166a4006557bd9b11488afe50a7b246dfea1b6beb7f42858ff6e54a9efef147"
+hash = "604c61f3caadb7f3a5eb2991d84fa56655faa2f7e6e98d13d3027659cfcf00b1"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/walksylib.pw.toml"
-hash = "98f8c97464c5e8cb22ed1185b1e230e6e2750e6f44f50e3e31356ca143b67aa7"
+hash = "22fe9133e2ab084b807bfdd3cd716aa9e63f9b2e5a1c1475551ae3f703ded5b4"
 metafile = true
 
 [[files]]
