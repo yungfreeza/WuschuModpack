@@ -1,8 +1,13 @@
-name = "VanillaBackport"
-filename = "VanillaBackport-fabric-1.21.1-1.2.0.2640.2.jar"
+name = "Vanilla Backport"
+filename = "VanillaBackport-fabric-1.21.1-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://yungfreeza.github.io/WuschuModpack/VanillaBackport-fabric-1.21.1-1.2.0.2640.2.jar"
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/pdLJZwZ1/VanillaBackport-fabric-1.21.1-1.2.2.jar"
 hash-format = "sha512"
-hash = "065e59d4e659ed8245035af8c4b0ac70e0888d26a6d8501f26781eeeabfb0e05d687f4fda681516e1a38a5fd9d1ff6e8dd91fbe1ef7fe20a81f55286840538cc"
+hash = "5f5d60ea9d83e8bd0a7fe0965288868a9a1824863a0998f594bd88b39103cfe55fb91f9526f3ec70ec2bf0157627f9a850dcaa96321cbc19287088fdb33d2212"
+
+[update]
+[update.modrinth]
+mod-id = "6xwxDTgf"
+version = "pdLJZwZ1"

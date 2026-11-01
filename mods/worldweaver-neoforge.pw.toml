@@ -1,13 +1,13 @@
 name = "WorldWeaver: New Dawn"
-filename = "worldweaver-21.0.20-fabric.jar"
+filename = "worldweaver-21.0.23-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R8uGDQpB/versions/lAZK6NK5/worldweaver-21.0.20-fabric.jar"
+url = "https://cdn.modrinth.com/data/R8uGDQpB/versions/8EHwx0Of/worldweaver-21.0.23-fabric.jar"
 hash-format = "sha512"
-hash = "4c6cb1405eb5c5f515afeeb6bab99bd3629bf7241d1135a14ac32aecca66724353aa66beb7dc76498f55889644d34fd13d7676c2d1fe7e31e157dafda0f107d6"
+hash = "0811396ecfe8d2965780ea6a6e779e56872ed3c2fa17f76ed4310322c9fec5f5e9452c38a9e683393ec6796be585b56e7590ebb98ede818a65a23adb410723e2"
 
 [update]
 [update.modrinth]
 mod-id = "R8uGDQpB"
-version = "lAZK6NK5"
+version = "8EHwx0Of"
