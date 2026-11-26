@@ -1,0 +1,13 @@
+name = "Kyanite Portals"
+filename = "kyanite-portals-0.1.11+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/whpEuOPn/versions/SzT6W8Zq/kyanite-portals-0.1.11%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "9bcce5d3d29938c12bf77abf89125614e0904e11324114abed04c4ee7fa8e6f696eb5ac861c327b26f893592dcb62b7fbfa046f6609178c52c3f145fc6c63771"
+
+[update]
+[update.modrinth]
+mod-id = "whpEuOPn"
+version = "SzT6W8Zq"

@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "d056036f71ac0fe66147f415e0142c1fd8889c065b7f1e5880ad3d46c583136f"
+hash = "eeaf748ba960d651887e5b37df937fe6b867f76659a24360aa7e5c9447d4f658"
 metafile = true
 
 [[files]]
@@ -321,6 +321,11 @@ hash = "a42a0746aba8a4765e54ff76bce1244db560681e0e7dd2b4462ba46568e9a8b4"
 metafile = true
 
 [[files]]
+file = "mods/kyanite-portals.pw.toml"
+hash = "7d2e601c703a7498c6f8199f0fc4762fd6b4ff1311a1d14e15d943540f0ac3b9"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
@@ -362,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "692453b7904b20c215fcdbd8bd6dd5df6bdca5de859e44b93604d41799d131a1"
+hash = "5143662da7f8b47a641bba729b9a0fadfd6f0bb4116d9c31b639c94dfff5c6cf"
 metafile = true
 
 [[files]]
