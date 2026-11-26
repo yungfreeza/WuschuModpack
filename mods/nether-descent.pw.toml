@@ -1,13 +1,13 @@
 name = "Nether Descent"
-filename = "Nether-Descent-Fabric-1.0.12-mc1.21.1.jar"
+filename = "Nether-Descent-Fabric-1.0.14-mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OMC5QQv5/versions/3r5Dh8W4/Nether-Descent-Fabric-1.0.12-mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/OMC5QQv5/versions/NEgSJ239/Nether-Descent-Fabric-1.0.14-mc1.21.1.jar"
 hash-format = "sha512"
-hash = "381efef7c50c95b03c87a69fbd024a679bf8252c9648c8c5737adb5feb66f2e33c32bad5b7334150c5dab9774f9d00212e73de2b2f54e808cde14dc4a8b9b420"
+hash = "3d8d9f27ebe2cbd1e85b836440c8db6fc063183bb9928a4a5c1c2bd89196c05946229e34e94c8ea08f67e457d5b7ae192d3154b952bfdebabf967a24ec608f12"
 
 [update]
 [update.modrinth]
 mod-id = "OMC5QQv5"
-version = "3r5Dh8W4"
+version = "NEgSJ239"

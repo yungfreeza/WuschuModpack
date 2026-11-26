@@ -1,13 +1,13 @@
 name = "BetterNether: New Dawn"
-filename = "better-nether-21.0.23-fabric.jar"
+filename = "better-nether-21.0.24-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fxX3RlL5/versions/xndeeo4R/better-nether-21.0.23-fabric.jar"
+url = "https://cdn.modrinth.com/data/fxX3RlL5/versions/326mNRp9/better-nether-21.0.24-fabric.jar"
 hash-format = "sha512"
-hash = "04ede80e0ab7d669de44391cb68eea6ea4daaac34157e113c2466daaf49b1b7af7ec2891d47102dcf33b18c21b3b714ebd865e6f43cf9454c0e8ccafe5970c4c"
+hash = "70e6715810ba04121251231aa8d00d32502f5371507f7c2ed51c1678f61f8a2861175d0c7f357d74e177d0a571677bda80d699d06a1ad6457cf15115649327a5"
 
 [update]
 [update.modrinth]
 mod-id = "fxX3RlL5"
-version = "xndeeo4R"
+version = "326mNRp9"
